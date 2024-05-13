@@ -1,0 +1,19 @@
+{
+    "name": "wildanmzaki/utils",
+    "description": "This is simple validation library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Wildanmzaki\\Validation\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "WildanMZaki",
+            "email": "wildanmzaki7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
